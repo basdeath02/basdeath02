@@ -1,10 +1,19 @@
-- 👋 Hi, I’m peerapon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m Peerapon
 
-<!---
-basdeath02/basdeath02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Senior Software Developer** with a passion for building impactful digital solutions.
+
+- 👀 I’m interested in:  
+  Web Development, Data Science, AI, Game Development
+
+- 🌱 I’m currently learning:  
+  HTML, CSS, JavaScript, TypeScript, Python, React, Java, Vue
+
+- 💞️ I’m looking to collaborate on:  
+  Exciting tech projects where I can contribute my skills and learn from others
+
+- 📫 How to reach me:  
+  peeraponchantha01@gmail.com
+
+---
+
+Thanks for visiting my profile! 🚀
